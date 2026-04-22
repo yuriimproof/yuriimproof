@@ -22,8 +22,7 @@ and AI agents as force multipliers. What used to take a team, I do alone.
 Previously a fullstack Web3 developer: smart contracts (Solidity), DeFi protocols,  
 security auditing. That foundation now lives inside bigger products.
 
-→ [FundMe — decentralized crowdfunding](https://github.com/yuriimproof/fund-me)  
-→ [Web3 educational content](https://t.me/yuriimproof) — Solidity tutorials, security case studies
+→ [FundMe — decentralized crowdfunding](https://github.com/yuriimproof/fund-me)
 
 ---
 

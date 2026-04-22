@@ -1,73 +1,37 @@
-<h1 align="center">Hey, I'm Yuri Improof 🚀</h1>
-<p align="center">
-  Solidity Developer • Smart Contract Auditor • Web3 Educator
-</p>
+# Yuri Kokin
 
-<p align="center">
-  <a href="https://t.me/improof"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" /></a>
-  <a href="https://youtube.com/@yuriimproof"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" /></a>
-  <a href="https://twitter.com/yuriimproof"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" /></a>
-  <a href="https://linkedin.com/in/yuriimproof"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-</p>
+Builder. I ship products solo using AI agents — from idea to production.
+
+Currently: PM track @ MIPT + Sber | Blockchain intern @ Sber | Grant winner (2M ₽)
 
 ---
 
-### 🧠 About Me
+## What I do
 
-> **Improof** isn’t just a name — it’s a principle.  
-> I believe in continuous evolution: in code, tools, people — and myself.
+I build products end-to-end — product thinking, architecture, code — using Claude Code  
+and AI agents as force multipliers. What used to take a team, I do alone.
 
-- ⚡ I optimize everything I touch: codebases, tools, processes, perspectives  
-- 🛠️ I build smart contracts that are secure, efficient, and production-ready  
-- 🔍 I audit code, hunt bugs, and love clean architecture  
-- 📚 I simplify complex Web3 topics and share them with others
-
----
-
-### 🧰 Tech Stack
-
-**Languages**: Solidity, TypeScript, JavaScript  
-**Frameworks**: Hardhat, Foundry, OpenZeppelin, Ethers.js, Remix  
-**Specialties**: Smart Contract Audits, Gas Optimization, Testing, Security
+**Product:** Discovery → delivery cycles, JTBD research, OKR-driven execution  
+**Engineering:** TypeScript, Next.js, PostgreSQL  
+**AI-native:** Claude Code power user, agent orchestration, AI-assisted development
 
 ---
 
-### 🎓 Education & Content
+## Background
 
-I'm creating resources to empower aspiring Web3 developers:
+Previously a fullstack Web3 developer: smart contracts (Solidity), DeFi protocols,  
+security auditing. That foundation now lives inside bigger products.
 
-- ✅ Beginner-friendly Solidity tutorials  
-- 🧠 Smart contract security tips & real case studies  
-- 🛠 Hands-on projects and tool walkthroughs  
-- 🌐 Web3 concepts made simple
-
-> 🎥 Learn smart contracts the **modern, secure, scalable** way.  
-> Join me on [YouTube](https://youtube.com/@yuriimproof) and [Telegram](https://t.me/improof)
+→ [FundMe — decentralized crowdfunding](https://github.com/yuriimproof/fund-me)  
+→ [Web3 educational content](https://t.me/yuriimproof) — Solidity tutorials, security case studies
 
 ---
 
-### 🔥 Featured Project
+## Philosophy
 
-- 💸 **FundMe** — A decentralized crowdfunding dApp with Chainlink price feeds
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriimproof&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriimproof&layout=compact&theme=tokyonight" />
-</p>
+AI agents don't replace founders — they remove the excuse of "I need a team to build this."  
+One person with the right tools can build anything.
 
 ---
 
-### 🤝 Let’s Build Together
-
-Are you:
-
-- Auditing smart contracts and want a second set of eyes?  
-- Learning Web3 and looking for guidance?  
-- Building something ambitious in crypto?
-
-Let’s connect. I’m here to **Improof** the future.
+→ [Telegram](https://t.me/improof)
